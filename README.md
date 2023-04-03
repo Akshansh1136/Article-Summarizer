@@ -15,13 +15,13 @@ To use the code in this repository, you'll need to have Python 3 installed, alon
 
 You can install these pacakges by running:
 
-pip install transformers
+` pip install transformers `
 
-pip install datasets
+` pip install datasets `
 
-pip install sentencepiece
+` pip install sentencepiece `
 
-pip install scikit-learn
+` pip install scikit-learn `
 
 
 
