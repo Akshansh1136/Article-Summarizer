@@ -5,7 +5,11 @@ This repository contains code for an article summarizer based on the T5 transfor
 # Requirements
 To use the code in this repository, you'll need to have Python 3 installed, along with the following packages:
 
-*transformers
-*datasets
-*sentecepiece
-*scikit-learn
+* transformers
+
+* datasets
+
+* sentecepiece
+
+* scikit-learn
+
