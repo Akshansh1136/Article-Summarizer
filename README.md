@@ -13,3 +13,15 @@ To use the code in this repository, you'll need to have Python 3 installed, alon
 
 * scikit-learn
 
+You can install these pacakges by running:
+
+pip install transformers
+
+pip install datasets
+
+pip install sentencepiece
+
+pip install scikit-learn
+
+
+
